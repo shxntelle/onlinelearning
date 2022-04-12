@@ -16,10 +16,8 @@
     letter-spacing: 10px;
 }
 
-.img {
-    position: relative;
-    opacity: 79%;
-    background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
+.img { 
+    opacity: 79%; 
+    width: 1400pxpx; 
+    height: 792px; 
 }

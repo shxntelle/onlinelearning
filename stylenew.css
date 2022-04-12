@@ -15,3 +15,8 @@
     font-size: 25px;
     letter-spacing: 10px;
 }
+
+.img {
+    opacity: 79%;
+    width: max-content;
+}

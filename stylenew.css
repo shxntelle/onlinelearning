@@ -3,7 +3,7 @@
     left: 0%;
     top: 50%;
     width: 100%;
-    text-align: 30px;
+    text-align: center;
     color: #000;
     opacity: 73%;
 }
@@ -11,7 +11,7 @@
 .caption span.border {
     background-color: #111;
     color: #fff;
-    padding: 30px;
+    padding: 59px;
     margin-left: 27px;
     font-size: 25px;
     letter-spacing: 10px;

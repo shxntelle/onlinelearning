@@ -1,4 +1,4 @@
-body, html {
+.front {
     height: 100%;
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
@@ -61,13 +61,13 @@ body, html {
       color: white;
   }
 
-  .carousel{
+  .swipe{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
  }
  
- body {
+ .carousel {
    background: #eee;
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    color: #000;

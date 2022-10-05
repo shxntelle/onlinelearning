@@ -15,6 +15,10 @@ body, html {
   box-sizing: border-box;
   height: 80px;
   background: red;
+  display: flex;
+}
+.navigation ul{
+  display: flex;
 }
 
 .bg-image {

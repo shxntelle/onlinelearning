@@ -83,6 +83,7 @@ margin: 0 5px;
   width: 59%;
   padding: 100px;
   text-align: center;
+  align-items: center;
 }
 .button {
   background-color: transparent;

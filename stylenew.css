@@ -16,7 +16,10 @@ body, html {
   height: 80px;
   background: red;
   display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
+
 .navigation ul{
   display: flex;
   list-style: none;

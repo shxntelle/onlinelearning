@@ -18,6 +18,13 @@ body, html {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding: 0px 50px 0px 100px;
+}
+
+.navigation .logo{
+  font-size: 33px;
+  color: #fff;
+  font-weight: 600;
 }
 
 .navigation ul{

@@ -36,6 +36,11 @@ body, html {
 margin: 0 5px;
 }
 
+.navigation ul ul{
+  position: absolute;
+  top: 70px;
+}
+
 .navigation ul li a{
   color: #fff;
   text-decoration: none;
@@ -51,15 +56,6 @@ margin: 0 5px;
 .navigation ul li a.active{
   color: #1b1b1b;
   background: #fff;
-}
-
-@media (max-width: 940px){
-  .navigation ul{
-    position: fixed;
-    top: 80px;
-    left: 0;
-    background: #111;
-  }
 }
 
 .bg-image {

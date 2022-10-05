@@ -16,7 +16,8 @@ body, html {
   height: 80px;
   background: #1b1b1b;
   display: flex;
-  align-items: baseline;
+  align-items: center;
+  align-content: center;
   justify-content: space-between;
   padding: 0px 50px 0px 100px;
 }

@@ -14,7 +14,7 @@ body, html {
   padding: 0;
   box-sizing: border-box;
   height: 80px;
-  background: red;
+  background: #1b1b1b;
   display: flex;
   align-items: center;
   justify-content: space-between;

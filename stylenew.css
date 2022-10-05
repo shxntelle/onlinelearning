@@ -21,12 +21,6 @@ body, html {
   padding: 0px 50px 0px 100px;
 }
 
-.navigation .logo{
-  font-size: 33px;
-  color: #fff;
-  font-weight: 600;
-}
-
 .navigation ul{
   display: flex;
   list-style: none;

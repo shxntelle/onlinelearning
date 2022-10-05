@@ -18,7 +18,7 @@ body, html {
   display: flex;
   align-items: center;
   align-content: center;
-  justify-content: space-between 7px;
+  justify-content: space-between 17px;
 }
 
 .navigation ul{

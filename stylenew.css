@@ -19,6 +19,12 @@ body, html {
 }
 .navigation ul{
   display: flex;
+  list-style: none;
+}
+
+.navigation ul li a{
+  color: #fff;
+  text-decoration: none;
 }
 
 .bg-image {

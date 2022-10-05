@@ -47,7 +47,8 @@ margin: 0 5px;
   transition: all 0.3s ease;
 }
 
-.navigation ul li a:hover{
+.navigation ul li a:hover, 
+.navigation ul li a.active{
   color: #1b1b1b;
   background: #fff;
 }

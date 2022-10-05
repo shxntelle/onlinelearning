@@ -53,6 +53,15 @@ margin: 0 5px;
   background: #fff;
 }
 
+@media (max-width: 940px){
+  .navigation ul{
+    position: fixed;
+    top: 80px;
+    left: 0;
+    background: #111;
+  }
+}
+
 .bg-image {
   background-image: url("background.jpg");
   

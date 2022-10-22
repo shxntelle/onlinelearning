@@ -112,7 +112,8 @@ body{
 
 .about .left hr {
     width: 20%;
-    border-top: black;
+    border-top: 2px solid black;
+    border-bottom: none;
 }
 
 hr{

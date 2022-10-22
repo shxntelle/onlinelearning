@@ -105,7 +105,11 @@ body{
     display: inline-block;
 }
 
-.about .left h1{
+p{
+  font-size: 18px;
+}
+
+.about .left h1 button{
     text-align: center;
     margin: 0 0 10px 0;
 }

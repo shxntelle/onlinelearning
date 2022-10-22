@@ -142,8 +142,8 @@ button {
 }
 
 button:hover{
-  background-color: rgb(172, 172, 172);
-  color: black;
+  background-color: black;
+  color: #fff;
 }
 
 .about .right{

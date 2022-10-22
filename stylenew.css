@@ -98,6 +98,10 @@ body{
     background-color: rgb(216, 216, 216);
 }
 
+.about h1{
+  font-size: 59px;
+}
+
 .about .left{
     padding: 1% 0;
     float: left;
@@ -106,7 +110,7 @@ body{
 }
 
 p{
-  font-size: 18px;
+  font-size: 29px;
 }
 
 .about .left h1 button{
@@ -117,7 +121,7 @@ p{
     width: 20%;
     border-top: 2px solid black;
     border-bottom: none;
-    margin-bottom: 9px;
+    margin-bottom: 19px;
 }
 
 button {

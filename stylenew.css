@@ -85,7 +85,7 @@ body{
 }
 
 #group-1{
-    z-index: -1;
+    z-index: 1;
 }
 
 .main_page{

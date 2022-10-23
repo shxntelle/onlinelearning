@@ -186,7 +186,10 @@ button:hover{
   background: #fafafa;
   border: transparent;
   border-radius: 27px ;
+}
 
+.card__content *{
+  font-size: 5px;
 }
 
 .card__content > p:first-of-type {
@@ -204,7 +207,7 @@ button:hover{
   align-items: center;
   color: #555555;
   background: #eeeeee;
-  font-size: 40px;
+  font-size: 1em;
   border-radius: 0 0 28px 28px;
 }
 

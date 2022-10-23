@@ -159,6 +159,7 @@ button:hover{
 }
 
 /* css for card section */
+
 .cards {
   margin: 0 auto;
   max-width: 125vh;
@@ -168,6 +169,10 @@ button:hover{
   gap: 20px;
   font-family: sans-serif;
   padding-top: 69vh;
+}
+
+h2{
+  font-size: 2em;
 }
 
 .cards * {

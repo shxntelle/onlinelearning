@@ -189,7 +189,7 @@ button:hover{
 }
 
 .card__content *{
-  font-size: 5px;
+  font-size: 40px;
 }
 
 .card__content > p:first-of-type {

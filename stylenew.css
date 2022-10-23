@@ -161,7 +161,7 @@ button:hover{
 /* css for card section */
 .cards {
   margin: 0 auto;
-  max-width: 10vh;
+  max-width: 100vh;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
   grid-auto-rows: auto;

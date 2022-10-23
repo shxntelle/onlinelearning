@@ -168,11 +168,7 @@ button:hover{
   grid-auto-rows: auto;
   gap: 20px;
   font-family: sans-serif;
-  padding-top: 69vh;
-}
-
-h2{
-  font-size: 2em;
+  padding-top: 59vh;
 }
 
 .cards * {

@@ -200,13 +200,13 @@ button:hover{
   margin-bottom: 0;
 }
 
-.card__info {
+.card__info *{
   padding: 15px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   color: #555555;
-  background: #eeeeee;
+  background: #fafafa;
   font-size: 1em;
   border-radius: 0 0 28px 28px;
 }

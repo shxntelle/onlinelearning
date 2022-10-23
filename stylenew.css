@@ -67,7 +67,7 @@ body{
 
 .parallax_group{
     position: relative;
-    height: 100vh;
+    height: 300vh;
     transform-style: preserve-3d;
 }
 
@@ -168,7 +168,6 @@ button:hover{
   gap: 20px;
   font-family: sans-serif;
   padding-top: 30px;
-  font-size: 12px;
 }
 
 .cards * {
@@ -182,7 +181,7 @@ button:hover{
 
 .card__content {
   line-height: 1.5;
-  font-size: 0.9em;
+  font-size: 12px;
   padding: 15px;
   background: #fafafa;
   border: transparent;

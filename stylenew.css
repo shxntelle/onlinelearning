@@ -67,7 +67,7 @@ body{
 
 .parallax_group{
     position: relative;
-    height: 300vh;
+    height: 100vh;
     transform-style: preserve-3d;
 }
 
@@ -81,6 +81,7 @@ body{
 
 .base_layer{
     transform: translateZ(-300px) scale(3);
+    height: max-content;
 }
 
 #group-1{

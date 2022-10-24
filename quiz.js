@@ -138,12 +138,12 @@ function showResult(){
     quiz_box.classList.remove("activeQuiz"); 
     result_box.classList.add("activeResult"); 
     const scoreText = result_box.querySelector(".score_text");
-    if (userScore > 3){ // if user scored more than 3
+    if (userScore > 5){ // if user scored more than 5
         //creating a new span tag and passing the user score number and total question number
         let scoreTag = '<span>and congrats! , You got <p>'+ userScore +'</p> out of <p>'+ questions.length +'</p></span>';
         scoreText.innerHTML = scoreTag;  //adding new span tag inside score_Text
     }
-    else if(userScore > 1){ // if user scored more than 1
+    else if(userScore > 4){ // if user scored more than 1
         let scoreTag = '<span>and nice , You got <p>'+ userScore +'</p> out of <p>'+ questions.length +'</p></span>';
         scoreText.innerHTML = scoreTag;
     }

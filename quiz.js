@@ -25,7 +25,6 @@ continue_btn.onclick = ()=>{
     queCounter(1); //passing 1 parameter to queCounter
 }
 
-let timeValue =  15;
 let que_count = 0;
 let que_numb = 1;
 let userScore = 0;
@@ -40,7 +39,6 @@ const quit_quiz = result_box.querySelector(".buttons .quit");
 restart_quiz.onclick = ()=>{
     quiz_box.classList.add("activeQuiz"); //show quiz box
     result_box.classList.remove("activeResult"); //hide result box
-    timeValue = 15; 
     que_count = 0;
     que_numb = 1;
     userScore = 0;

@@ -5,6 +5,7 @@
     box-sizing: border-box;
     height: 80px;
     background: #1b1b1b;
+    display: flex;
     align-items: center;
     align-content: center;
     justify-content: space-between;
@@ -44,13 +45,13 @@
   /* css for cards on subjects page */
 .cards {
     margin: 0 auto;
-    max-width: 125vh;
+    max-width: 179vh;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
     grid-auto-rows: auto;
     gap: 20px;
     font-family: sans-serif;
-    padding-top: 21vh;
+    padding-top: 6vh;
   }
   
   .cards * {

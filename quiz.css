@@ -222,13 +222,13 @@ body {
     width: 145px;
 }
 
-.quiz_box header .timer .time_left_txt{
+.quiz_box header{
     font-weight: 400;
     font-size: 17px;
     user-select: none;
 }
 
-.quiz_box header .timer .timer_sec{
+.quiz_box header {
     font-size: 18px;
     font-weight: 500;
     height: 30px;
@@ -242,7 +242,7 @@ body {
     user-select: none;
 }
 
-.quiz_box header .time_line{
+.quiz_box header {
     position: absolute;
     bottom: 0px;
     left: 0px;
